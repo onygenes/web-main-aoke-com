@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://onygenes.github.io/web-main-aoke-com/sitemap.xml
